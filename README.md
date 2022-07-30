@@ -5,4 +5,4 @@
 # Como usar a aplicação.
 
 > Primeiro instale todos os módulos utilizando o comando **npm install**.
->Depois, dentro da pasta **market/** digite o comando **ng serve**.
+>Depois, digite o comando **ng serve**.
